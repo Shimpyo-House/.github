@@ -97,32 +97,27 @@
   <tr>
     <td align="center">
       <a href="https://github.com/TaePoong719" target="_blank">
-        최우혁<br />
-        FE 팀장(전)
+        최우혁
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Yamyam-code" target="_blank">
-        백상원<br />
-        FE 팀장
+        백상원
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/jiohjung98" target="_blank">
-        정지오<br />
-        FE 팀원
+        정지오
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/wkdtnqls0506" target="_blank">
-        장수빈<br />
-        FE 팀원
+        장수빈
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/seacrab808" target="_blank">
-        소유나<br />
-        FE 팀원
+        소유나
       </a>
     </td>
   </table>
